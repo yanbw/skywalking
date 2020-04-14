@@ -1,0 +1,2 @@
+logpattern=org.apache.skywalking.apm.plugin.logpattern.define.LogbackTraceInstrumentation
+logpattern=org.apache.skywalking.apm.plugin.logpattern.define.Log4j2TraceInstrumentation
